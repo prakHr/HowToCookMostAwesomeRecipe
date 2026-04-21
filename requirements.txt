@@ -1,2 +1,7 @@
-ragatouille==0.0.8
+ragatouille
 mpire
+diffusers
+transformers
+huggingface_hub
+accelerate
+peft
