@@ -1,7 +1,8 @@
 ragatouille
 mpire
 diffusers
-transformers
+transformers==4.49
 huggingface_hub
 accelerate
 peft
+langchain==0.1.7
