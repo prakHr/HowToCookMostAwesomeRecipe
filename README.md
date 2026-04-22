@@ -1,3 +1,5 @@
+![Alt text](AwesomeNinjutsu1.png)
+
 ![Alt text](awesomeRecipe2.jpg)
 
 ![Alt text](awesomeRecipe.jpg)
